@@ -26,7 +26,7 @@ if __Config['RTX']['Mode'] then
 		c.TintColor = Color3.fromRGB(255, 220, 148)
 	elseif __Config['RTX']['Mode'] == "Autumn" then
 		c.TintColor = Color3.fromRGB(217, 145, 57)
-	elseif __Config['RTX']['Mode'] == 'Cold' then 
+	elseif __Config['RTX']['Mode'] == 'Winter' then 
 		c.TintColor = Color3.fromRGB(0, 215, 255)
 	else 
 		c.TintColor = Color3.fromRGB(217, 145, 57)
